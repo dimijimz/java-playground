@@ -9,3 +9,15 @@ class Demo {
         System.out.print(city);
     }
 }
+
+
+//here we show that you can combine the declaration and assignment into one statement
+
+class Demo {
+    public static void main(String[] args){
+        String name = "This is the new (AIO) statement!";
+
+        System.out.println(name);
+     }
+}
+//output: "This is the new (AIO) statement!"
