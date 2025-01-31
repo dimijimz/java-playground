@@ -9,7 +9,7 @@ class Demo {
         System.out.print(city);
     }
 }
-
+//output: "New York City"
 
 //here we show that you can combine the declaration and assignment into one statement
 
